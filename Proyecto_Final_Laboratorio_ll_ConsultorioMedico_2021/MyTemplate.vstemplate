@@ -1,0 +1,57 @@
+<VSTemplate Version="3.0.0" xmlns="http://schemas.microsoft.com/developer/vstemplate/2005" Type="Project">
+  <TemplateData>
+    <Name>Proyecto_Final_Laboratorio_ll_ConsultorioMedico_2021</Name>
+    <Description>&lt;No hay ninguna descripción disponible&gt;</Description>
+    <ProjectType>VC</ProjectType>
+    <ProjectSubType>
+    </ProjectSubType>
+    <SortOrder>1000</SortOrder>
+    <CreateNewFolder>true</CreateNewFolder>
+    <DefaultName>Proyecto_Final_Laboratorio_ll_ConsultorioMedico_2021</DefaultName>
+    <ProvideDefaultName>true</ProvideDefaultName>
+    <LocationField>Enabled</LocationField>
+    <EnableLocationBrowseButton>true</EnableLocationBrowseButton>
+    <Icon>__TemplateIcon.ico</Icon>
+  </TemplateData>
+  <TemplateContent>
+    <Project TargetFileName="Proyecto_Final_Laboratorio_ll_ConsultorioMedico_2021.vcxproj" File="Proyecto_Final_Laboratorio_ll_ConsultorioMedico_2021.vcxproj" ReplaceParameters="true">
+      <ProjectItem ReplaceParameters="false" TargetFileName="$projectname$.vcxproj.filters">Proyecto_Final_Laboratorio_ll_ConsultorioMedico_2021.vcxproj.filters</ProjectItem>
+      <ProjectItem ReplaceParameters="false" TargetFileName="Cadena.cpp">Cadena.cpp</ProjectItem>
+      <ProjectItem ReplaceParameters="false" TargetFileName="Direccion.cpp">Direccion.cpp</ProjectItem>
+      <ProjectItem ReplaceParameters="false" TargetFileName="Empleado.cpp">Empleado.cpp</ProjectItem>
+      <ProjectItem ReplaceParameters="false" TargetFileName="Especialidad.cpp">Especialidad.cpp</ProjectItem>
+      <ProjectItem ReplaceParameters="false" TargetFileName="FacturaConsulta.cpp">FacturaConsulta.cpp</ProjectItem>
+      <ProjectItem ReplaceParameters="false" TargetFileName="Fecha.cpp">Fecha.cpp</ProjectItem>
+      <ProjectItem ReplaceParameters="false" TargetFileName="Fecha_Hora.cpp">Fecha_Hora.cpp</ProjectItem>
+      <ProjectItem ReplaceParameters="false" TargetFileName="FuncionesGlobales.cpp">FuncionesGlobales.cpp</ProjectItem>
+      <ProjectItem ReplaceParameters="false" TargetFileName="FuncionesGlobalesDeMenus.cpp">FuncionesGlobalesDeMenus.cpp</ProjectItem>
+      <ProjectItem ReplaceParameters="false" TargetFileName="HistoriaClinica.cpp">HistoriaClinica.cpp</ProjectItem>
+      <ProjectItem ReplaceParameters="false" TargetFileName="Hora.cpp">Hora.cpp</ProjectItem>
+      <ProjectItem ReplaceParameters="false" TargetFileName="HorarioEmpleado.cpp">HorarioEmpleado.cpp</ProjectItem>
+      <ProjectItem ReplaceParameters="false" TargetFileName="Paciente.cpp">Paciente.cpp</ProjectItem>
+      <ProjectItem ReplaceParameters="false" TargetFileName="Persona.cpp">Persona.cpp</ProjectItem>
+      <ProjectItem ReplaceParameters="false" TargetFileName="Proyecto_Final_Laboratorio_ll_ConsultorioMedico_2021.cpp">Proyecto_Final_Laboratorio_ll_ConsultorioMedico_2021.cpp</ProjectItem>
+      <ProjectItem ReplaceParameters="false" TargetFileName="TemplatesHTML.cpp">TemplatesHTML.cpp</ProjectItem>
+      <ProjectItem ReplaceParameters="false" TargetFileName="Turno.cpp">Turno.cpp</ProjectItem>
+      <ProjectItem ReplaceParameters="false" TargetFileName="Cadena.h">Cadena.h</ProjectItem>
+      <ProjectItem ReplaceParameters="false" TargetFileName="Direccion.h">Direccion.h</ProjectItem>
+      <ProjectItem ReplaceParameters="false" TargetFileName="Empleado.h">Empleado.h</ProjectItem>
+      <ProjectItem ReplaceParameters="false" TargetFileName="Especialidad.h">Especialidad.h</ProjectItem>
+      <ProjectItem ReplaceParameters="false" TargetFileName="FacturaConsulta.h">FacturaConsulta.h</ProjectItem>
+      <ProjectItem ReplaceParameters="false" TargetFileName="Fecha.h">Fecha.h</ProjectItem>
+      <ProjectItem ReplaceParameters="false" TargetFileName="Fecha_Hora.h">Fecha_Hora.h</ProjectItem>
+      <ProjectItem ReplaceParameters="false" TargetFileName="FuncionesGlobales.h">FuncionesGlobales.h</ProjectItem>
+      <ProjectItem ReplaceParameters="false" TargetFileName="FuncionesGlobalesDeMenus.h">FuncionesGlobalesDeMenus.h</ProjectItem>
+      <ProjectItem ReplaceParameters="false" TargetFileName="HistoriaClinica.h">HistoriaClinica.h</ProjectItem>
+      <ProjectItem ReplaceParameters="false" TargetFileName="Hora.h">Hora.h</ProjectItem>
+      <ProjectItem ReplaceParameters="false" TargetFileName="HorarioEmpleado.h">HorarioEmpleado.h</ProjectItem>
+      <ProjectItem ReplaceParameters="false" TargetFileName="Paciente.h">Paciente.h</ProjectItem>
+      <ProjectItem ReplaceParameters="false" TargetFileName="Persona.h">Persona.h</ProjectItem>
+      <ProjectItem ReplaceParameters="false" TargetFileName="resource.h">resource.h</ProjectItem>
+      <ProjectItem ReplaceParameters="false" TargetFileName="TemplatesHTML.h">TemplatesHTML.h</ProjectItem>
+      <ProjectItem ReplaceParameters="false" TargetFileName="Turno.h">Turno.h</ProjectItem>
+      <ProjectItem ReplaceParameters="false" TargetFileName="Proyecto_Final_Laboratorio_ll_ConsultorioMedico_2021.rc">Proyecto_Final_Laboratorio_ll_ConsultorioMedico_2021.rc</ProjectItem>
+      <ProjectItem ReplaceParameters="false" TargetFileName="ClassDiagram.cd">ClassDiagram.cd</ProjectItem>
+    </Project>
+  </TemplateContent>
+</VSTemplate>

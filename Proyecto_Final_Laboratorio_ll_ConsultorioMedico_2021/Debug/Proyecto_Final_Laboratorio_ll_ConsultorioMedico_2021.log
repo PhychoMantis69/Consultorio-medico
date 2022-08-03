@@ -1,0 +1,29 @@
+﻿  Cadena.cpp
+  Direccion.cpp
+  Empleado.cpp
+  Especialidad.cpp
+  FacturaConsulta.cpp
+  Fecha.cpp
+  Fecha_Hora.cpp
+  FuncionesGlobales.cpp
+  FuncionesGlobalesDeMenus.cpp
+C:\Users\Lea\Documents\Visual Studio 2019\My Exported Templates\Proyecto_Final_Laboratorio_ll_ConsultorioMedico_2021\FuncionesGlobalesDeMenus.cpp(47,6): warning C4101: 'nro': variable local sin referencia
+C:\Users\Lea\Documents\Visual Studio 2019\My Exported Templates\Proyecto_Final_Laboratorio_ll_ConsultorioMedico_2021\FuncionesGlobalesDeMenus.cpp(135,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\Lea\Documents\Visual Studio 2019\My Exported Templates\Proyecto_Final_Laboratorio_ll_ConsultorioMedico_2021\FuncionesGlobalesDeMenus.cpp(303,22): warning C4101: 'hora': variable local sin referencia
+C:\Users\Lea\Documents\Visual Studio 2019\My Exported Templates\Proyecto_Final_Laboratorio_ll_ConsultorioMedico_2021\FuncionesGlobalesDeMenus.cpp(303,127): warning C4101: 'opcionTurnoDia': variable local sin referencia
+C:\Users\Lea\Documents\Visual Studio 2019\My Exported Templates\Proyecto_Final_Laboratorio_ll_ConsultorioMedico_2021\FuncionesGlobalesDeMenus.cpp(303,45): warning C4101: 'idPaciente': variable local sin referencia
+C:\Users\Lea\Documents\Visual Studio 2019\My Exported Templates\Proyecto_Final_Laboratorio_ll_ConsultorioMedico_2021\FuncionesGlobalesDeMenus.cpp(303,36): warning C4101: 'idTurno': variable local sin referencia
+C:\Users\Lea\Documents\Visual Studio 2019\My Exported Templates\Proyecto_Final_Laboratorio_ll_ConsultorioMedico_2021\FuncionesGlobalesDeMenus.cpp(303,28): warning C4101: 'minuto': variable local sin referencia
+C:\Users\Lea\Documents\Visual Studio 2019\My Exported Templates\Proyecto_Final_Laboratorio_ll_ConsultorioMedico_2021\FuncionesGlobalesDeMenus.cpp(614,31): warning C4101: 'opcion': variable local sin referencia
+C:\Users\Lea\Documents\Visual Studio 2019\My Exported Templates\Proyecto_Final_Laboratorio_ll_ConsultorioMedico_2021\FuncionesGlobalesDeMenus.cpp(671,15): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  HistoriaClinica.cpp
+  Hora.cpp
+  HorarioEmpleado.cpp
+  Paciente.cpp
+  Persona.cpp
+  Proyecto_Final_Laboratorio_ll_ConsultorioMedico_2021.cpp
+  TemplatesHTML.cpp
+  Turno.cpp
+  Generando código...
+C:\Users\Lea\Documents\Visual Studio 2019\My Exported Templates\Proyecto_Final_Laboratorio_ll_ConsultorioMedico_2021\FuncionesGlobalesDeMenus.cpp(239): warning C4715: 'nroDiaEnRango': no todas las rutas de acceso de control devuelven un valor
+  Proyecto_Final_Laboratorio_ll_ConsultorioMedico_2021.vcxproj -> C:\Users\Lea\Documents\Visual Studio 2019\My Exported Templates\Proyecto_Final_Laboratorio_ll_ConsultorioMedico_2021\Debug\Proyecto_Final_Laboratorio_ll_ConsultorioMedico_2021.exe
